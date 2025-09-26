@@ -1,5 +1,5 @@
-This is the code of scheme  
+This is the source code of O-MABE scheme for paper
 
-Verifiable and Auditable Multi-Authority Attribute-Based Encryption
+Towards Secure and Efficient Outsourced Multi-Authority Access Control for Cloud-Assisted e-Health
 
-I develop it with java-jdk (21.0.2), jpbc (2.0.0)
+We develop it with java-jdk (21.0.2), jpbc (2.0.0)
